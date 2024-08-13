@@ -9,7 +9,7 @@
 
 # Variational Autoencoder (VAE) Model Overview Model Structure
 
-## This VAE model consists of three main components:
+## This SVAE model consists of three main components:
     - Encoder: Compresses the input data into a lower-dimensional latent space.
     - LatentZ: Represents the probabilistic latent space, where the model learns to approximate the 
       distribution of the input data.
